@@ -3,4 +3,4 @@
 
 
 
-Want to send pretty and responsive emails in Power Automate? Head over to my blog for more info! 😊 <a href="www.kristinekolodziejski.com">My blog </a>
+Want to send pretty and responsive emails in Power Automate? Head over to my blog for more info! 😊 https://kristinekolodziejski.com
